@@ -1,0 +1,6 @@
+*~
+test_all
+.ipynb_checkpoints
+*.ipynb
+*.slides.html
+__pycache__
