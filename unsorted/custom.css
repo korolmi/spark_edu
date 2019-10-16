@@ -1,0 +1,10 @@
+.reveal {
+    font-size: 260%;
+}
+
+body {
+    background-image: url("hdp_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;  
+}
